@@ -17,17 +17,17 @@
 </div>
       
 ---
-<h1 align="center">Hi 👋, I'm Abdulrahman Awad</h1>
-<h3 align="center">A passionate software developer and student at Carleton University</h3>
+<h1 align="center">Hello 👋, I'm Muhammed Burhan</h1>
+<h3 align="center">A dedicated student who is deeply passionate about software development and is currently pursuing a bachelors in the field of Computer Science.</h3>
 
 ---
 ## :man_technologist: About Me :
 
-- I am Abdulrahman Awad, a versatile software developer with expertise in various programming languages such as Python, Java, C, JavaScript, HTML, and CSS. I have hands-on experience with GitLab for version control and collaborative development, Docker for containerized application deployment, and VS Code as an efficient coding environment. Additionally, I am skilled in IntelliJ for Java development, Tkinter for building user interfaces, and JavaFX for creating visually appealing UIs. I have actively contributed to projects on GitHub and have knowledge of Robot Framework for test automation. My experience as a Delivery Automation Software Developer Intern at Nokia further honed my skills in Python, Docker, Linux, GitLab, and Robot Framework. Alongside a talented team, I gained practical expertise in version control, collaborative development, containerized application deployment, and test automation. I am pursuing a Bachelor's Degree in Computer Science, specializing in A.I and Machine Learning at Carleton University, where I have developed a strong foundation in computer science principles, algorithms, and data structures. Through coursework and hands-on projects, I have sharpened my problem-solving abilities and analytical thinking. I am passionate about creating innovative solutions and look forward to exploring new opportunities in software development.
+- I am Muhammed Burhan, a versatile software developer with expertise in various programming languages such as Python, Java, C, JavaScript, HTML, and CSS. I have hands-on experience with GitLab for version control and collaborative development, Docker for containerized application deployment, and VS Code as an efficient coding environment. Additionally, I am skilled in IntelliJ for Java development, Tkinter for building user interfaces, and JavaFX for creating visually appealing UIs. I have actively contributed to projects on GitHub and have knowledge of Robot Framework for test automation. My experience as a Delivery Automation Software Developer Intern at Nokia further honed my skills in Python, Docker, Linux, GitLab, and Robot Framework. Alongside a talented team, I gained practical expertise in version control, collaborative development, containerized application deployment, and test automation. I am pursuing a Bachelor's Degree in Computer Science, specializing in A.I and Machine Learning at Carleton University, where I have developed a strong foundation in computer science principles, algorithms, and data structures. Through coursework and hands-on projects, I have sharpened my problem-solving abilities and analytical thinking. I am passionate about creating innovative solutions and look forward to exploring new opportunities in software development.
       
 ---
 ## Projects:
-- Link: https://github.com/AbduAwad/AbduAwad/projects
+- Link: https://github.com/bur7an/bur7an/projects
 
 
 
@@ -52,7 +52,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdulrahmansawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahmansawad" height="30" width="40" /></a>
-<a href="https://instagram.com/_abduawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abduawad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammed-burhan-abbb40274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bur7an" height="30" width="40" /></a>
+<a href="https://www.instagram.com/m_burhanxz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bur7an" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abdu_awadd1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdu_awadd1234" height="30" width="40" /></a>
 </p>
