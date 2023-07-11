@@ -54,5 +54,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammed-burhan-abbb40274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bur7an" height="30" width="40" /></a>
 <a href="https://www.instagram.com/m_burhanxz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bur7an" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abdu_awadd1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdu_awadd1234" height="30" width="40" /></a>
+<a href="https://leetcode.com/bur7an/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bur7an" height="30" width="40" /></a>
 </p>
